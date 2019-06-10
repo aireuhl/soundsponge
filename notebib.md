@@ -1,0 +1,68 @@
+## Annotated Bibliography
+
+The Senses: Design Beyond Vision, edited by Ellen Lupton & Andrea Lipps (2018). 
+
+N. Yau, “Visualizing Incomplete and Missing Data” 
+Lauren Klein “Image of Absence: Archival Silence, Data Visualization"
+James Hemings, Thomas Padilla “Engaging Absence”
+Mimi Onuoha “Data and its Dissidents”
+“The Point of Collection”
+“What Maps Really Show”
+
+
+Collaborative rhythm: temporal dissonance and alignment in collaborative scientific work
+Collaborative design of an oceanographic event logger
+On the Reuse of Scientific Data
+Ten Simple Rules for the Care and Feeding of Scientific Data
+
+READ: Robert S. Emmett and David E. Nye’s Environmental Humanities: A Critical Introduction (Chapter 1: The Emergence of the Environmental Humanities, Chapter 7: Unsettling the Human, Chapter 8: Conclusions)
+
+Amanda Starling Gould, “Digital Environmental Metabolisms: An Ecocritical Project of the Digital Environmental Humanities”
+Chapter 1: Digital Metabolism (15) 
+Chapter 3: Digital Environmental Art (94) 
+Chapter 3: Mother Earth, Motherboard (101)
+Chapter 4: Sustainable Digital Scholarship (1240) 
+
+READ: Stefan Helmreich’s Alien Ocean Anthropological Voyages in Microbial Seas (Introduction: Life at Sea, Chapter 1: The Message from the Mud: Making Meaning Out of Microbes in Monterey Bay, Chapter 6: Submarine Cyborgs: Transductive Ethnography at the Seafloor, Juan de Fuca Ridge)
+
+“Transduction and the Body as a Transducer” by Paulo de Assis
+
+SKIM: Coffey, et al. “DeepSqueak: a deep learning-based system for detection and analysis of ultrasonic vocalizations”
+
+Alexander Supper, “Sublime frequencies: The construction of sublime listening experiences in the sonification of scientific data”
+
+Sophia Roosth, “Screaming Yeast: Sonocytology, Cytoplasmic Milieus, and Cellular Subjectivities”    
+
+
+more bioacoustics? 
+
+READ: user guides, tutorials, workflows, etc. for digital tools 
+        Refer back to Lauren McCarthy’s “Make: Getting Started with p5.js”, as 
+needed
+
+---
+
+ADDITIONAL TEXTS
+
+Bachelard, Gaston. *Water and dreams : an essay on the imagination of matter*. Dallas: The Dallas Institute Publications, 1983. 
+Colomina, Beatriz and Mark Wigley. *are we human? notes on an archaeology of design*. Zurich: Lars Müller Publications, 2016.
+Daston, Lorraine and Peter Galison. *Objectivity*. Brooklyn: Zone Books, 2007.
+Emmett, Robert S. and David E. Nye. *The environmental humanities : a critical introduction*. Cambridge: MIT Press, 2016. 
+Gessert, George. *Green light : toward an art of evolution*. Cambridge: MIT Press, 2010.
+Harbison, Robert. *Eccentric spaces*. New York: Alfred A. Knopf, 1977.
+Helmreich, Stefan. *Alien ocean : anthropolical voyages in microbial seas*. Berkeley: University of California Press, 1999.
+Horowitz, Seth S. *The universal sense : how hearing shapes the mind*. New York: Bloomsbury, 2012. 
+Hughes, Howard C. *Sensory exotica : a world beyond human experience*. Cambridge: MIT Press, 1999.
+Kahn, Douglas. *Noise, water, meat : a history of sound in the arts*. Cambridge: MIT Press, 1999. 
+Ladefoged, Peter. *Elements of acoustic phonetics*. Chicago: University of Chicago Press, 1974.
+McCarthy, Lauren, Casey Reas, and Ben Fry. *Getting started with p5.js*. San Francisco: Maker Media, 2016. 
+Meldahl, Keith Heyer. *Surf, sand, and stone : how waves, earthquakes, and other forces shape the southern California coast*. Oakland, University of California Press, 2015.
+Virno, Paolo. *When the word becomes the flesh : language and human nature*. South Pasadena: Semiotext(e), 2015.
+Voegelin, Salomé. *Listening to noise and silence : towards a philosophy of sound art*. New York: Continuum International Publishing Group, 2010. 
+
+
+Queer ecologies : sex, nature, politics, desire / edited by Catriona Mortimer-Sandilands and Bruce Erickson. 	Book 	  Recall Request  	06-12-2019 11:00:00 PM 
+Felix Gonzalez-Torres : specific objects without specific form / curated by Elena Filipovic ; with Danh Vo, Carol Bove, Tino Sehgal. 	Book 	  Renewed (Requests: 0)  	08-26-2019 05:00:00 PM 
+Sacred ecology / Fikret Berkes. 	Book 	  Renewed (Requests: 0)  	08-26-2019 07:00:00 PM 
+Environmental humanities : voices from the anthropocene / edited by Serpil Oppermann and Serenella Iovino. 	Book 	  Renewed (Requests: 0)  	08-26-2019 07:00:00 PM 
+Silent spring & other writings on the environment / Rachel Carson ; Sandra Steingraber, editor. 	Book 	  Renewed (Requests: 0)  	08-26-2019 07:00:00 PM 
