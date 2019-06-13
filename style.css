@@ -5,12 +5,12 @@ body {
 h1 {
   color: #ffffff;
   text-align: center;
-  font-family: avenir next
+  font-family: 'avenir next';
 }
 
 p {
   color: #ffffff;
   text-align: center;
-  font-family: avenir next;
+  font-family: 'avenir next';
   font-size: 23px;
 }
